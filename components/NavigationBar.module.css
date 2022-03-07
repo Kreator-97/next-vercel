@@ -1,0 +1,13 @@
+
+.item {
+  text-decoration: underline;
+  color: #0070F3;
+  padding: 1rem;
+  cursor: pointer;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.active {
+  color: crimson;
+}
